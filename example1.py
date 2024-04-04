@@ -11,7 +11,7 @@ print("Hello world!")
 print("Hello","world!","There ","is a double space here")
 
 # An expression can be included in a print statement
-print("3 + 5 =", 8 )
+print("3 + 5 =", 8)
 print("4 * 2 =", 4*2)
 
 # Mixtures of variables and string literals can be included using formatted strings
